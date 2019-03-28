@@ -1,0 +1,1 @@
+# DenScript-Potentiometer-V1.0
